@@ -41,6 +41,7 @@ Activation functions
 .. autofunction:: clipped_relu
 .. autofunction:: cos
 .. autofunction:: exp
+.. autoclass:: GRU
 .. autofunction:: leaky_relu
 .. autofunction:: log
 .. autofunction:: lstm
